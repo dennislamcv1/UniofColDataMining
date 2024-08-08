@@ -1,0 +1,17 @@
+1. Your project title - Giving your project a proper, fitting title
+
+2. Abstract - Providing a brief description of your project in an abstract 
+
+3. Introduction - Introducing your project/problem
+
+4. Related work - Referencing a review of relevant literature / prior work and results therein
+
+5. Proposed work - Relaying the exact nature of what you intend to do in the project (tools, datasets, tasks, techniques, etc)
+
+6. Evaluation - Identifying an evaluation plan to measure or analyze results, and what success might look like for this project
+
+7. Discussion - Providing a reasonable timeline for the phases and duration of your proposed project
+
+8. Conclusion
+
+9. References - Citing any sources that were utilized in your proposal with the proper formatting structure
